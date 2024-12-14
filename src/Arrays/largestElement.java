@@ -18,6 +18,6 @@ public class largestElement {
                 max = i;
             }
         }
-        System.out.println(max);
+        System.out.println("Maximum element is: "+max);
     }
 }

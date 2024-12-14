@@ -10,7 +10,7 @@ public class checkIfArrayIsSortedAndRotated {
                 count++;
             }
         }
-        if(nums[nums.length-1]>nums[0]){
+        if(nums[nums.length-1]>nums[0]) {
             count++;
         }
         System.out.println(count <= 1 ? true:false);
