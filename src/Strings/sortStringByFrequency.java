@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class sjs {
+public class sortStringByFrequency {
     public static void main(String[] args) {
         String s = "tree";
         Map<Character, Integer> frequencyMap = new HashMap<>();
